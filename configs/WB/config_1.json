@@ -1,0 +1,6 @@
+{
+	"window":60,
+	"limit":40,
+	"remote_server":"192.168.170.131",
+	"remote_port":10000
+}

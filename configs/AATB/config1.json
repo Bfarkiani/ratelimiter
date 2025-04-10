@@ -1,0 +1,12 @@
+{
+	"bucket_size":40,
+	"initial_tokens":1,
+	"initial_rate":40,
+	"first_step":1.4,
+	"second_step":1.2,
+	"remote_server":"192.168.170.131",
+	"remote_port":10000,
+	"controller_ip":"192.168.170.131",
+	"controller_port":8080,
+	"report_window":30
+}

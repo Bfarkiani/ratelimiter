@@ -1,0 +1,11 @@
+{
+	"window":60,
+	"bucket_size":40,
+	"initial_tokens":1,
+	"initial_rate":40,
+	"initial_congestion":300,
+	"first_step":1.2,
+	"second_step":1.2,
+	"remote_server":"192.168.170.131",
+	"remote_port":10000
+}
